@@ -1,4 +1,0 @@
-Pasta para o Telco Customer Churn problem com diferentes abordagens:
-* Undersampling e codificação específica e diferentes modelos de ML de DL;
-* SMOTE e codificação específica e diferentes modelos e ML e DL;
-* Técnicas diferentes de SMOTE usando ML, mais codificação e ML ou DL para aprendizado. 
