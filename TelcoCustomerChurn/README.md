@@ -20,7 +20,7 @@ O objetivo é analisar os principais fatores que levam um cliente a cancelar o s
    - Entender variáveis mais correlacionadas ao churn.
    - Uso de matriz de correlação para entender como essas variáveis se relacionam (após codificação dos dados, visto que a maioria dos atributos desse dataset são dados do tipo objeto).
 
- * Considerações:
+### Considerações:
 - Contagem do atributo `tenure`: aqui foi considerado a quantidade de pessoas que passou mais tempo comprometida com a empresa em intervalos de 5 meses.
 <img width="580" height="432" alt="tenure count" src="https://github.com/user-attachments/assets/6882cc4a-7a3f-4bca-9669-2b92d7a7c093" />
  
