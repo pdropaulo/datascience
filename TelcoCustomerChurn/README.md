@@ -55,15 +55,15 @@ O objetivo é analisar os principais fatores que levam um cliente a cancelar o s
 
    ### Considerações:
    - Testado o modelo com o uso do SMOTE para balanceamento entre as classes, realizando undersampling da classe majoritária e oversampling da minoritária a fim de deixar as classes igualitárias sem grande discrepância de ruídos. Os resultados com Regressão Logística e Support Vector Machine foram, respectivamente, conforme as imagens:  
-1-Regressão logística:
+  1-Regressão logística:
   <img width="510" height="394" alt="cm_rl_smote" src="https://github.com/user-attachments/assets/de2261d6-15c0-4e83-ada9-df7a578fcec3" />
-2 - SVM:
+  2 - SVM:
   <img width="510" height="393" alt="cm_svm_smote" src="https://github.com/user-attachments/assets/4a15d209-7bb8-4f59-b754-ad85efc566e4" />
 
    - Posteriormente, feito um teste utilizando o algoritmo de SMOTE-ENN, que tem a função de remover os possíveis ruídos adquiridos com o uso do SMOTE.
-1-Regressão logística:
+  1-Regressão logística:
   <img width="510" height="394" alt="cm_rl_smoteenn" src="https://github.com/user-attachments/assets/b4d8ef37-7454-43eb-a2bb-bc64ed562918" />  
-2-SVM:
+  2-SVM:
   <img width="510" height="393" alt="cm_svm_smoteenn" src="https://github.com/user-attachments/assets/7b0c6279-a6d0-4d5d-90a6-acb257a62be6" />  
 
 
